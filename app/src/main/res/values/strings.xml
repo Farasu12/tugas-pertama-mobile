@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyRecylerView</string>
+
+
+    <string-array name="data_name">
+        <item>Mie Aceh</item>
+        <item>Bika Ambon</item>
+        <item>Mie Bangka</item>
+        <item>Seruit</item>
+        <item>Kerak Telor</item>
+        <item>Karedok</item>
+        <item>Bau Peapi</item>
+        <item>Uta Dada</item>
+        <item>Bubur Pedas</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Mi Aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi ini disajikan dengan menggunakan mi kuning tebal dengan irisan daging sapi, daging kambing atau seafood, seperti udang dan cumi.</item>
+        <item>Bika ambon adalah penganan khas Medan, Sumatera Utara, Indonesia. Penganan ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan.</item>
+        <item>Mi Bangka, atau dikenal sebagai bakmi Bangka adalah salah satu hidangan tradisional masyarakat pulau Bangka.Mi bagi masyarakat Bangka dikenal dengan sebutan mien dan mian, yang merupakan pengaruh dari kuliner orang Hakka.</item>
+        <item>Seruit adalah makanan tradisional Lampung, Indonesia, yaitu masakan ikan yang digoreng atau dibakar dicampur sambal terasi, tempoyak (olahan durian) atau mangga.</item>
+        <item>Kerak telor adalah makanan tradisional asli daerah Jakarta (Betawi), yang terbuat dari bahan-bahan beras ketan putih, telur ayam atau bebek.</item>
+        <item>Karedok adalah salah satu makanan khas Sunda di Indonesia. Karedok dibuat dengan bahan-bahan sayuran mentah</item>
+        <item>Bau Peapi adalah makanan tradisional Mandar, Sulawesi Barat, yang bahan-bahannya terdiri dari Ikan (ikan tuna, ikan tongkol, ikan layang dan lain-lain), Air, Cabai kecil, Lasuna Mandar (bawang merah khas Mandar), Paissang (asam dari daging mangga yang diiris kecil-kecil dan sudah dikeringkan), Bubuk kunyit, Minyak kelapa Mandar</item>
+        <item>Uta dada merupakan olahan daging ayam kampung yang dimasak menggunakan santan. Makanan ini terkenal sangat gurih dan pedas.</item>
+        <item>Bubur pedas atau Bubbor Paddas adalah hidangan bubur tradisional dari Orang Melayu baik di Sambas dan Sarawak. Bubur pedas terbuat dari nasi halus dan kelapa parut. Stock dibuat dari daging tulang seperti tulang rusuk atau irisan ayam.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/miaceh</item>
+        <item>@drawable/bikaambon</item>
+        <item>@drawable/mibangka</item>
+        <item>@drawable/seruit</item>
+        <item>@drawable/keroktelor</item>
+        <item>@drawable/karedok</item>
+        <item>@drawable/baupeapi</item>
+        <item>@drawable/utadada</item>
+        <item>@drawable/buburpedas</item>
+    </integer-array>
+</resources>
